@@ -36,6 +36,12 @@ export default {
         active: true,
         date: new Date().toISOString().slice(0, 10),
     }),
+    preview: {
+        select: {
+            title: 'date',
+            subtitle: 'title',
+        }
+    },
     orderings: [
         {
             title: 'Date, New First',
@@ -52,10 +58,4 @@ export default {
             ]
         },
     ],
-    preview: {
-        select: {
-            title: 'date',
-            subtitle: 'title',
-        }
-    },
 };
