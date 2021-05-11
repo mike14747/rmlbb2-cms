@@ -4,6 +4,7 @@ import schemaTypes from 'all:part:@sanity/base/schema-type';
 import blockContentText from './blockContentText';
 import newsItem from './newsItem';
 import event from './event';
+import manager from './manager';
 
 export default createSchema({
     name: 'default',
@@ -11,5 +12,6 @@ export default createSchema({
         blockContentText,
         newsItem,
         event,
+        manager,
     ]),
 });
