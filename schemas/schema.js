@@ -5,6 +5,7 @@ import blockContentText from './blockContentText';
 import newsItem from './newsItem';
 import event from './event';
 import manager from './manager';
+import champion from './champion'
 
 export default createSchema({
     name: 'default',
@@ -13,5 +14,6 @@ export default createSchema({
         newsItem,
         event,
         manager,
+        champion,
     ]),
 });
