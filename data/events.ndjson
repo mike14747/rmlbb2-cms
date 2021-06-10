@@ -1,0 +1,212 @@
+{"_type":"event","_id":"4c6688b4-f30d-47a1-ac69-39870889f826","eventDate":"2015-01-01","event":"Second Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"93b133f1-2ca1-4aae-8f7e-5ff998b03131","eventDate":"2015-01-07","event":"Unowned Draft Lists Deadline","details":"","active":true}
+{"_type":"event","_id":"e2d01720-6d11-414b-9c59-866bd19ab303","eventDate":"2015-01-10","event":"Unowned Draft","details":"","active":true}
+{"_type":"event","_id":"ea4d4fd8-7cb8-45ad-8b80-4c17c13972d9","eventDate":"2015-01-17","event":"Makeup Date for Unowned Draft","details":"","active":true}
+{"_type":"event","_id":"3103473a-ed16-4f45-9cd2-8d8f63dde769","eventDate":"2015-02-01","event":"Second Trading Period Ends","details":"","active":true}
+{"_type":"event","_id":"19cc9e3d-c515-4487-b37a-bbec98f5b0d6","eventDate":"2015-02-07","event":"Waiver Cutdown by Midnight","details":"","active":true}
+{"_type":"event","_id":"725b943c-358d-44f8-8ddb-b0bb301e7cef","eventDate":"2015-02-25","event":"Waiver Draft Lists in by Midnight","details":"","active":true}
+{"_type":"event","_id":"5e33f5f2-5b9a-468f-8e70-4c07375ea11f","eventDate":"2015-02-28","event":"Third Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"1ed7ac5b-6e83-4147-892a-a743a280a6b6","eventDate":"2015-02-28","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"90449a64-3736-48b4-97d8-a73401893d36","eventDate":"2015-03-07","event":"Third Trading Period Ends at Midnight","details":"","active":true}
+{"_type":"event","_id":"04a36c02-eba8-462a-b904-dc46ff7ddb57","eventDate":"2015-03-08","event":"Final Rosters Set","details":"","active":true}
+{"_type":"event","_id":"5ec6e16a-68d8-48df-8ab4-81ff8ae09ad3","eventDate":"2015-03-25","event":"Contingency CMs due by midnight","details":"","active":true}
+{"_type":"event","_id":"841bc054-d13e-4aad-b439-02337321d586","eventDate":"2015-04-01","event":"Opening Day--Play Ball!!","details":"Series 1 Starts","active":true}
+{"_type":"event","_id":"a7733b96-4bdf-4f33-81ef-b3c487d38162","eventDate":"2015-04-09","event":"Minor League Draft Lists Due by midnite","details":"","active":true}
+{"_type":"event","_id":"9acd2f9b-03b7-4973-85d2-73bd4f404b40","eventDate":"2015-04-11","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"bedce313-1ed4-4757-b1bc-f8f9ca7e9cdf","eventDate":"2015-04-15","event":"Series 1 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"37c2aa45-584a-4344-adef-22d6606bfd3b","eventDate":"2015-04-16","event":"Series 2 Starts","details":"","active":true}
+{"_type":"event","_id":"db2b1b1d-8966-4a6d-90da-e138594c5047","eventDate":"2015-04-30","event":"Series 2 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"eac95259-cbe8-4c71-b0c2-9187684d4327","eventDate":"2015-05-01","event":"Series 3 Starts","details":"","active":true}
+{"_type":"event","_id":"83bf95dc-d0bc-4272-bc3b-18b514d6e7f7","eventDate":"2015-05-15","event":"Series 3 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"c45e9633-9f7c-447f-ae93-47dd371b0247","eventDate":"2015-05-16","event":"Series 4 Starts","details":"","active":true}
+{"_type":"event","_id":"44982065-a2d7-4762-b220-556fa6c1f3ca","eventDate":"2015-05-31","event":"Series 4 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"a1f6cc45-e717-436e-8e62-ffc970131e9a","eventDate":"2015-06-01","event":"Series 5 Starts","details":"","active":true}
+{"_type":"event","_id":"a5d0c868-0d6f-4f53-b85d-760cc6c98472","eventDate":"2015-06-15","event":"Series 5 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"5dca7b49-7b77-4faf-b300-4fd23409d9af","eventDate":"2015-06-16","event":"Series 6 Starts","details":"","active":true}
+{"_type":"event","_id":"c2e63d2b-61f3-4afa-b4a6-763ed36b1361","eventDate":"2015-06-30","event":"Series 6 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"b55345d3-3da1-4596-b94b-1f792213f2f1","eventDate":"2015-07-01","event":"Series 7 Starts","details":"","active":true}
+{"_type":"event","_id":"94797d4d-95e0-478d-a232-d90c9281b013","eventDate":"2015-07-15","event":"Series 7 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"7c3b59de-e33a-4c67-b318-3b81242c9df7","eventDate":"2015-07-16","event":"Series 8 Starts","details":"","active":true}
+{"_type":"event","_id":"ff1e6311-062e-403b-a534-e9739af13d31","eventDate":"2015-07-31","event":"Series 8 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"83ec8072-f340-4652-a75e-7267195926e4","eventDate":"2015-08-01","event":"Series 9 Starts","details":"","active":true}
+{"_type":"event","_id":"4c2be608-e3c9-4b2a-ac81-bfebef218be6","eventDate":"2015-08-15","event":"Series 9 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"cd99f0c0-8c81-4b4c-8dfc-cb2d0e488437","eventDate":"2015-08-16","event":"Series 10 Starts","details":"","active":true}
+{"_type":"event","_id":"e1c3080d-b00e-46f6-977b-2b78ff3080e4","eventDate":"2015-08-31","event":"Series 10 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"67688d93-9a67-413d-98ab-ff061409d639","eventDate":"2015-09-01","event":"Series 11 Starts","details":"","active":true}
+{"_type":"event","_id":"9ff42cdd-a68b-4263-9fdb-990a20356dc1","eventDate":"2015-09-15","event":"Series 11 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"583a00d3-b183-47a6-b78b-bbc20329c32b","eventDate":"2015-09-16","event":"Series 12 Starts","details":"","active":true}
+{"_type":"event","_id":"8deaf064-d0d4-4e12-8a43-598a8e9a495c","eventDate":"2015-09-30","event":"Series 12 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"76bb03b0-c84b-44c0-b5e2-8ebc695d171b","eventDate":"2015-10-31","event":"End of First Trading Period","details":"","active":true}
+{"_type":"event","_id":"bfcf7a08-b94c-48cd-a27d-ab16acb303a3","eventDate":"2015-09-01","event":"First trading period starts","details":"","active":true}
+{"_type":"event","_id":"fc26164c-88a9-4f06-b13f-5add02fcc240","eventDate":"2015-11-15","event":"Payrolls Due by midnight","details":"","active":true}
+{"_type":"event","_id":"88989fa8-ddbe-4a49-a92b-7451acb1413f","eventDate":"2015-12-12","event":"Free Agent Bids by midnight","details":"","active":true}
+{"_type":"event","_id":"d64b4e80-36c5-4a33-8b9e-f137019e0b45","eventDate":"2015-12-19","event":"Free Agent Darft Results Posted","details":"","active":true}
+{"_type":"event","_id":"8134e72e-a889-46c8-8f62-ae20e538440f","eventDate":"2016-01-01","event":"Second Trading Period Starts","details":"runs thru Feb. 1","active":true}
+{"_type":"event","_id":"7061efee-4e04-4f65-937f-30f27dda9389","eventDate":"2016-02-01","event":"Second Trading Period Ends at midnight","details":"","active":true}
+{"_type":"event","_id":"c68cecec-19b4-43ec-b669-36065781ac17","eventDate":"2016-01-06","event":"Unowned Draft Lists to Tom and Lloyd by midnight","details":"","active":true}
+{"_type":"event","_id":"f4c9519a-4458-48af-b5f9-8d5be6552396","eventDate":"2016-01-09","event":"Unowned Draft","details":"TBA","active":true}
+{"_type":"event","_id":"6135632b-5f72-4fc9-8732-88d67d2888d4","eventDate":"2016-02-06","event":"Waiver Cutdown by Midnight","details":"Last Chance to cut without penalty","active":true}
+{"_type":"event","_id":"ff1e864a-3b83-4d8f-b095-0a3adf86aa88","eventDate":"2016-02-24","event":"Waiver Draft Lists in by Midnight","details":"","active":true}
+{"_type":"event","_id":"43980234-4683-47ba-a3be-652ece793d39","eventDate":"2016-02-27","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"c4070558-37b0-4584-b617-4c7c27b41496","eventDate":"2016-02-27","event":"Third Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"164a93ad-987f-4553-91af-f621cbf800f4","eventDate":"2016-03-05","event":"Third Trading Period Ends at Midnight","details":"","active":true}
+{"_type":"event","_id":"ea5a3de2-9c9d-474b-b08d-3ddc18016449","eventDate":"2016-03-06","event":"Final Rosters Set","details":"","active":true}
+{"_type":"event","_id":"9a3859fd-87e5-41fb-ae9c-402122a4401f","eventDate":"2016-03-25","event":"Contingency CMs due by midnight","details":"","active":true}
+{"_type":"event","_id":"d9ad7ffc-c2a7-4ddc-8b76-34834866a64d","eventDate":"2016-04-01","event":"Opening Day--Play Ball!!","details":"Block 1 (April) Starts","active":true}
+{"_type":"event","_id":"551e3a59-30ce-4996-bed9-2a8e87e29243","eventDate":"2016-04-07","event":"Minor League Draft Lists Due by Midnight","details":"","active":true}
+{"_type":"event","_id":"3e9e96fb-7e86-4b21-8629-342ca26c76ff","eventDate":"2016-04-09","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"ba7d3a9a-446a-4634-a8a8-fbd6fd386a61","eventDate":"2016-04-26","event":"Block 1 (April) Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"c7837602-5fa0-45bd-9acc-7845bf481c04","eventDate":"2016-05-01","event":"Block 2 (May) Starts","details":"","active":true}
+{"_type":"event","_id":"7a314ad2-78e6-4848-bfb1-d8f0ecf653ae","eventDate":"2016-05-26","event":"Block 2 (May) Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"384c3c1b-26e2-4cd1-b5af-4401d1f7a22f","eventDate":"2016-06-01","event":"Block 3 (June) Starts","details":"","active":true}
+{"_type":"event","_id":"9ed2d5af-3406-4051-a07c-c6d4f36108b3","eventDate":"2016-06-28","event":"Block 3 (June) Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"6442d699-0246-4e55-a837-1adea268eb88","eventDate":"2016-07-01","event":"Block 4 (July) Starts","details":"","active":true}
+{"_type":"event","_id":"5a7172a7-f290-44ad-a4d6-f2860cb81ede","eventDate":"2016-07-28","event":"Block 4 (July) Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"498f6308-8c10-4a73-8d96-8db347074d6a","eventDate":"2016-08-01","event":"Block 5 (August) Starts","details":"","active":true}
+{"_type":"event","_id":"6a3f91ba-8498-4aa0-9740-02cc57926a96","eventDate":"2016-08-28","event":"Block 5 (August) Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"5d2398f6-b011-4840-8d35-3af7112a3dce","eventDate":"2016-09-01","event":"Block 6 (September) Starts","details":"","active":true}
+{"_type":"event","_id":"1ebdca15-dc2b-483b-b02b-98da4e24556a","eventDate":"2016-09-01","event":"First Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"c1fc9188-c765-499e-a012-a760f6ff6f39","eventDate":"2016-09-26","event":"Block 6 (September) Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"75449779-f194-4b59-b6c9-b766ebc38f04","eventDate":"2016-10-31","event":"First Trading Period Ends","details":"","active":true}
+{"_type":"event","_id":"d25c8ea2-04c1-487a-ba72-22b91fe236c0","eventDate":"2016-11-15","event":"Payrolls Due by Midnight","details":"","active":true}
+{"_type":"event","_id":"f19014bd-05c2-4584-a429-f15240347e29","eventDate":"2016-12-10","event":"Free Agent Bids by Midnight","details":"","active":true}
+{"_type":"event","_id":"b901665b-9904-439e-9f5c-c9669af12b36","eventDate":"2016-12-17","event":"Free Agent Draft Results Posted","details":"","active":true}
+{"_type":"event","_id":"78204fff-b4f7-4844-a467-9afa4f38d2af","eventDate":"2017-01-01","event":"Second Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"f93ed01c-3c28-4181-a9d7-79932b3bcb1f","eventDate":"2017-01-04","event":"Unowned Draft Lists to Tom and Lloyd by Midnight","details":"","active":true}
+{"_type":"event","_id":"42d74284-8ca4-46f7-b114-0bf0f15207fb","eventDate":"2017-01-07","event":"Unowned Draft","details":"","active":true}
+{"_type":"event","_id":"2d94a68a-d0d7-4896-ac4e-ce5f2c98821b","eventDate":"2017-02-01","event":"Second Trading Period Ends at Midnight","details":"","active":true}
+{"_type":"event","_id":"6294386c-df73-42a5-a4ba-98dae992d8ae","eventDate":"2017-02-08","event":"Waiver Cut-down by Midnight","details":"Last Chance to cut without bonus penalty.","active":true}
+{"_type":"event","_id":"134c9b4d-368e-4c25-b7bd-2903cf85cbc3","eventDate":"2017-02-22","event":"Waiver Draft Lists in by midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"e77ea61a-9c4c-4806-a434-87f866237bdc","eventDate":"2017-02-25","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"92d26d16-10d7-4f33-b8df-84fc31fb762d","eventDate":"2017-02-25","event":"Third Trading Period Begins--One week","details":"","active":true}
+{"_type":"event","_id":"a7ace647-5dc1-402e-921b-be76a4e5db9e","eventDate":"2017-03-04","event":"Third Trading Period Ends at midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"0f42c14f-74be-4248-a9eb-cf33fcabfb7f","eventDate":"2017-03-05","event":"Final Rosters Set","details":"","active":true}
+{"_type":"event","_id":"e79d7999-ee6b-414c-9ef1-66d71c9bf1d2","eventDate":"2017-03-25","event":"Contingency CMs Due By Midnight (Eastern)","details":"","active":true}
+{"_type":"event","_id":"8a8d14bd-9f01-4855-9434-2e9d9e6d2fdb","eventDate":"2017-04-01","event":"Opening Day--Play Ball!","details":"Block 1 Starts","active":true}
+{"_type":"event","_id":"7c60b0b8-8475-4455-948e-3e1f65290fba","eventDate":"2017-04-19","event":"Minor League Draft Lists Due by Midnight (Eastern)","details":"","active":true}
+{"_type":"event","_id":"40abba6b-79de-48c9-9ebf-a5110bc5db3e","eventDate":"2017-04-22","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"7e538aba-c07e-4b34-84c5-60606175389c","eventDate":"2017-05-27","event":"Block 2 Stats Due to Mark","details":"","active":true}
+{"_type":"event","_id":"ede6b22c-8622-4841-a481-95c63b449545","eventDate":"2017-09-01","event":"First Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"3cbb36c6-b8bf-4d38-b787-1903b19ef86e","eventDate":"2017-10-31","event":"First Trading Period Ends Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"888d4212-5920-44d7-9cb5-8a7d9d8f0d0a","eventDate":"2017-11-08","event":"Payrolls Due by Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"f30d28f8-b71a-43c7-a0a3-f63a2223ed16","eventDate":"2017-06-27","event":"Block 3 Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"ccb0003a-4364-49ba-be66-9175a6012b75","eventDate":"2017-07-27","event":"Block 4 Stats Due to Mark","details":"","active":true}
+{"_type":"event","_id":"4d088c9c-6e87-4b69-ba8d-ed5aed475e07","eventDate":"2017-08-27","event":"Block 5 Stats Due to Mark","details":"","active":true}
+{"_type":"event","_id":"ae1616ea-c623-41ef-85d9-ba01c5756666","eventDate":"2017-09-27","event":"Block 6 Stats Due to Mark","details":"","active":true}
+{"_type":"event","_id":"ca9b8b78-b72c-4e9c-a983-c30bff94126e","eventDate":"2017-12-02","event":"Free Agent Bids by Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"bdd3d652-e38f-4ec6-a1af-a95197587d23","eventDate":"2017-12-09","event":"Free Agent Draft Results Posted","details":"","active":true}
+{"_type":"event","_id":"2bb01e3c-ea5b-40f1-a2fa-17a87c5947eb","eventDate":"2018-01-01","event":"Second Trading Period Starts","details":"","active":true}
+{"_type":"event","_id":"aedaee8f-a8d2-42f9-ac09-6a88a0a054c4","eventDate":"2018-01-10","event":"Unowned Draft Lists In by Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"d4d47694-2b45-4620-8dc6-b1edf552ada0","eventDate":"2018-01-13","event":"Unowned Draft","details":"","active":true}
+{"_type":"event","_id":"553d89fb-ef41-4bab-bc31-9b39d6c2d36f","eventDate":"2018-02-01","event":"Second Trading Period Ends at Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"d48fe73e-5f74-476c-86cf-03a8375f8d95","eventDate":"2018-02-10","event":"Roster Cuts in by midnight to avoid bonus points penalty.","details":"","active":true}
+{"_type":"event","_id":"72a80004-9592-47aa-9f52-21538c808709","eventDate":"2018-02-21","event":"Waiver Draft Lists in by midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"36cd68df-2bd6-40db-9ba7-5af2f6978354","eventDate":"2018-02-24","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"9da86fbb-15dc-4b1f-9807-106de7984a48","eventDate":"2018-02-24","event":"Third Trading Period Begins--One week","details":"","active":true}
+{"_type":"event","_id":"09373373-6fe9-4e6d-8868-c0022a7107e7","eventDate":"2018-03-03","event":"Third Trading Period Ends at midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"944c47f9-2411-4992-83e8-7db6c17e121b","eventDate":"2018-03-17","event":"Final Rosters Set--any cuts in by midnight-loss of bonus points.","details":"","active":true}
+{"_type":"event","_id":"33943ea3-6288-4beb-93bf-4635965c8097","eventDate":"2018-04-01","event":"Opening Day--Play Ball!-Block 1 Starts","details":"","active":true}
+{"_type":"event","_id":"a5aff0a7-e440-435a-9a39-bbecc58daca0","eventDate":"2018-04-18","event":"Minor League Draft Lists Due by Midnight (Eastern)","details":"Lists to Tom and Lloyd","active":true}
+{"_type":"event","_id":"57effb99-d9b8-4135-98af-cf41efe5b145","eventDate":"2018-04-21","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"85f195b0-52e6-4af9-bc36-6e49b91bf158","eventDate":"2018-04-27","event":"Block 1 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"153f7729-26c0-4836-8e80-049908dee083","eventDate":"2018-05-27","event":"Block 2 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"889c3881-92d5-4b2b-bc39-da5baa7c4059","eventDate":"2018-06-27","event":"Block 3 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"cb2a1298-97aa-48c1-bd5f-0f5b98ba98da","eventDate":"2018-07-27","event":"Block 4 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"0a794104-d611-4fa5-b8c9-faae3ce4f8ba","eventDate":"2018-08-27","event":"Block 5 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"22125713-7857-4045-b04e-719c84ad5fdf","eventDate":"2018-09-27","event":"Block 6 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"35881130-6fdc-4247-8644-7fa70475f3a8","eventDate":"2018-09-01","event":"First Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"5c552884-69a4-4777-a5a3-68f9630e3a3a","eventDate":"2018-10-31","event":"First Trading Period Ends Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"20858feb-9581-4a72-bf75-a1fe06b53811","eventDate":"2018-11-10","event":"Payrolls Due by Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"b3b58766-f1b0-441c-85a5-f95eefd696f0","eventDate":"2018-12-01","event":"Free Agent Bids by Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"b53672c3-89ec-4aaf-8344-d9eb19f6d4a3","eventDate":"2018-12-08","event":"Free Agent Draft Results Posted","details":"","active":true}
+{"_type":"event","_id":"1672368b-5523-47e4-8af9-82f8650a8007","eventDate":"2019-01-01","event":"Second Trading Period Starts","details":"","active":true}
+{"_type":"event","_id":"e6ba1ed9-80d2-4785-acd5-cdb63f97d1ff","eventDate":"2019-01-16","event":"Unowned Draft Lists In by Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"5701bb59-1e4b-4563-b90d-2001f0919512","eventDate":"2019-01-19","event":"Unowned Draft","details":"","active":true}
+{"_type":"event","_id":"d9d45c76-080b-477a-a7f5-0efaa1e6d608","eventDate":"2019-02-01","event":"Second Trading Period Ends at Midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"e9f606ea-48d1-4b1f-8388-e00b95468587","eventDate":"2019-02-09","event":"Roster Cuts in by midnight to avoid bonus points penalty.","details":"","active":true}
+{"_type":"event","_id":"d6259f14-95fb-44a4-9b69-1cfc5707d269","eventDate":"2019-02-20","event":"Waiver Draft Lists in by midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"e4281aaa-010b-47ab-943c-daa00c95b728","eventDate":"2019-02-23","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"7a99dfdd-9d89-436d-8cae-8719aaa3f1bb","eventDate":"2019-02-23","event":"Third Trading Period Begins--One week","details":"","active":true}
+{"_type":"event","_id":"fe014995-ebba-4f13-80b0-3288d999a40d","eventDate":"2019-03-16","event":"Final Rosters Set--any cuts in by midnight-loss of bonus points.","details":"","active":true}
+{"_type":"event","_id":"68c135b2-4086-41ad-8cec-6581b16b57dc","eventDate":"2019-04-01","event":"Opening Day--Play Ball!-Block 1 Starts","details":"","active":true}
+{"_type":"event","_id":"035d02d0-7e3c-48cc-96b8-a5d5e8a78049","eventDate":"2019-04-27","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"6d4a9806-2b43-4fee-a4c3-730535128699","eventDate":"2019-04-24","event":"Minor League Draft Lists Due by Midnight (Eastern): lists to Tom and Lloyd","details":"","active":true}
+{"_type":"event","_id":"8414fb6d-03b0-4da5-9488-6941e66910d2","eventDate":"2019-03-02","event":"Third Trading Period Ends at midnight Eastern","details":"","active":true}
+{"_type":"event","_id":"33b02078-a153-44a1-898a-5a1d1d923752","eventDate":"2019-06-01","event":"Mid-season Trading Period thru June 26","details":"","active":true}
+{"_type":"event","_id":"4eceae80-74fc-4cd6-a52b-3cfb55f3269a","eventDate":"2019-07-01","event":"July Block Starts","details":"Everyone must download new lzp with roster changes.","active":true}
+{"_type":"event","_id":"9f9d8cce-f1a7-4c54-b38a-4dc704a93941","eventDate":"2019-06-27","event":"All Roster cuts/pick-ups to Tom and Mark by midnight eastern for July lzp","details":"","active":true}
+{"_type":"event","_id":"da79ae51-5d64-44b3-805f-2eb1e40f5427","eventDate":"2019-04-27","event":"Block One Completed--all stats to Mark","details":"","active":true}
+{"_type":"event","_id":"aa3b914b-8d62-48aa-898a-dc4508aff36d","eventDate":"2019-05-01","event":"May Block Starts","details":"","active":true}
+{"_type":"event","_id":"dec69939-7752-48e0-b5bc-8017d09c3259","eventDate":"2019-05-27","event":"May Block ends--stats to Mark","details":"","active":true}
+{"_type":"event","_id":"7505f8ad-363d-47da-9a7b-73fc17fce2f9","eventDate":"2019-06-01","event":"June Block Starts","details":"","active":true}
+{"_type":"event","_id":"253c03a5-baa4-4c05-afe7-57fe5146b89e","eventDate":"2019-06-27","event":"June Block Ends--All Stats to Mark","details":"","active":true}
+{"_type":"event","_id":"9fbc9697-0752-40ef-9389-9bf1aba9a546","eventDate":"2019-07-27","event":"July Block Ends--All stats to Mark","details":"","active":true}
+{"_type":"event","_id":"bbd1a833-243f-4f57-aa00-ddf7f7642e71","eventDate":"2019-08-01","event":"August Block Starts","details":"","active":true}
+{"_type":"event","_id":"ac9633cb-be93-4b09-b6a3-1528ec0ef9a4","eventDate":"2019-08-27","event":"August Block Ends--All stats to Mark","details":"","active":true}
+{"_type":"event","_id":"321f1901-fdf0-4464-8c6b-7e0af9c1e87a","eventDate":"2019-09-01","event":"First Trading Period Starts-thru Oct. 31","details":"","active":true}
+{"_type":"event","_id":"e14d628e-1d98-438c-be79-67ac30a0268d","eventDate":"2019-06-26","event":"Mid-Season Trading Ends at Midnight (Eastern)","details":"","active":true}
+{"_type":"event","_id":"0ab9d58b-8eb2-4164-bcff-ba54c4f7d6c3","eventDate":"2019-10-31","event":"First Trading Period Ends","details":"","active":true}
+{"_type":"event","_id":"cb0b1c2c-a79b-4316-9024-63b5312608a4","eventDate":"2019-11-09","event":"Payrolls Due","details":"","active":true}
+{"_type":"event","_id":"9a99babc-ed64-4516-b006-5d979a3a847e","eventDate":"2019-12-06","event":"Free Agent Bids In","details":"","active":true}
+{"_type":"event","_id":"84cd4a71-f76a-4212-aa00-8a95bf80435a","eventDate":"2019-12-07","event":"Free Agent Draft Results Posted","details":"","active":true}
+{"_type":"event","_id":"a5bff091-e471-41a7-bc82-bf43b8060ef8","eventDate":"2020-01-01","event":"Second Trading Period Starts","details":"","active":true}
+{"_type":"event","_id":"75ea2e7c-fe3e-44fb-9506-97675c58de4e","eventDate":"2020-02-01","event":"Second Trading Period Ends","details":"","active":true}
+{"_type":"event","_id":"934c01d4-e585-49bc-a7f0-759c34c39ea7","eventDate":"2019-09-30","event":"Block 6 results due to Mark","details":"","active":true}
+{"_type":"event","_id":"0e5b2e91-9056-4660-a500-6cee1fcf2187","eventDate":"2019-10-15","event":"Wildcard series results due to Mark","details":"","active":true}
+{"_type":"event","_id":"c4ae223d-90d1-44b8-8fb5-359962b50ae1","eventDate":"2019-11-09","event":"$10 League Dues to Lloyd","details":"","active":true}
+{"_type":"event","_id":"1ba9f16c-a549-49a1-9cb3-3cae70c4789c","eventDate":"2019-10-31","event":"Divisional playoff results due","details":"","active":true}
+{"_type":"event","_id":"5f92058a-f9f6-444e-a17d-89ca7c9db211","eventDate":"2020-01-18","event":"Unowned Player Draft","details":"","active":true}
+{"_type":"event","_id":"d013a394-103d-44a9-b461-1a2960dab6cf","eventDate":"2020-02-08","event":"Roster Cuts in by midnight","details":"Last chance to avoid bonus points penalty.","active":true}
+{"_type":"event","_id":"55ee9533-d468-4853-8c59-81a8a7ca9c07","eventDate":"2020-02-22","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"e9d81754-f962-47ca-b374-6019ab3dc4cc","eventDate":"2020-02-21","event":"Waiver Draft lists due","details":"","active":true}
+{"_type":"event","_id":"4e9cd981-9a30-443d-9d4e-078f148a4391","eventDate":"2020-02-22","event":"Third trading period begins","details":"","active":true}
+{"_type":"event","_id":"3537f16b-0acf-478a-a9e5-a92b0e0fe8b8","eventDate":"2020-02-29","event":"Third trading period ends","details":"","active":true}
+{"_type":"event","_id":"134356fc-6f50-4665-8f97-92904c2d722e","eventDate":"2020-03-07","event":"Final Rosters Set","details":"","active":true}
+{"_type":"event","_id":"0b0876c4-3d6b-43cf-8741-7662efc2c91c","eventDate":"2020-03-28","event":"Contingency CMs due to Mark by midnight","details":"","active":true}
+{"_type":"event","_id":"2cc5a9e9-53b6-461f-9e7b-515e648d1067","eventDate":"2020-04-18","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"4d46e977-de48-48ca-b553-459222aa3afd","eventDate":"2020-04-16","event":"Minor League Draft lists due to Mike and Lloyd","details":"","active":true}
+{"_type":"event","_id":"0f8ee4b2-5dbe-4e7d-9057-148a44476c81","eventDate":"2020-04-01","event":"Block 1 start date","details":"","active":true}
+{"_type":"event","_id":"d9d26b28-5dba-442e-9711-d368c5473729","eventDate":"2020-04-28","event":"Block 1 due date","details":"","active":true}
+{"_type":"event","_id":"d0d011f3-5c5d-4d9b-8eb1-c7c7c6251bc2","eventDate":"2020-05-01","event":"Block 2 start date","details":"","active":true}
+{"_type":"event","_id":"7ad27735-c34d-47d9-b5fa-95a49cc4b627","eventDate":"2020-05-28","event":"Block 2 due date","details":"","active":true}
+{"_type":"event","_id":"aba99d1a-d677-4c15-b43f-b9ec39a947ca","eventDate":"2020-06-01","event":"Block 3 start date","details":"","active":true}
+{"_type":"event","_id":"5b07e35a-2705-4c76-8f82-8c40b92b908b","eventDate":"2020-06-28","event":"Block 3 due date","details":"","active":true}
+{"_type":"event","_id":"bc210bca-fb97-4290-b7d0-a8c9d95ec537","eventDate":"2020-07-01","event":"Block 4 start date","details":"","active":true}
+{"_type":"event","_id":"13ae2523-4a02-43eb-965d-57173cf96a62","eventDate":"2020-07-28","event":"Block 4 due date","details":"","active":true}
+{"_type":"event","_id":"2c17e26f-3144-4b38-9378-41c1c42f1b2f","eventDate":"2020-08-01","event":"Block 5 start date","details":"","active":true}
+{"_type":"event","_id":"c7c037ad-4ba6-425d-a18c-ab4d2dbe5200","eventDate":"2020-08-28","event":"Block 5 due date","details":"","active":true}
+{"_type":"event","_id":"f69e1024-7f6b-459d-9d1d-7260aa905a8c","eventDate":"2020-09-01","event":"Block 6 start date","details":"","active":true}
+{"_type":"event","_id":"93bd7225-794f-4920-8d56-f5043e8f6218","eventDate":"2020-09-28","event":"Block 6 due date","details":"","active":true}
+{"_type":"event","_id":"9ffd0f95-fec2-4448-8b25-2db239dc0f7d","eventDate":"2020-09-30","event":"First Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"88f45f61-3b54-49e4-8ad6-47ea34d6dca8","eventDate":"2020-11-07","event":"First Trading Period Ends","details":"","active":true}
+{"_type":"event","_id":"c32c913d-a90b-4617-ba54-12fa255c02d9","eventDate":"2020-11-15","event":"Payrolls Due by Midnight EST","details":"","active":true}
+{"_type":"event","_id":"7bda7e9b-a323-420c-ba7c-029d5ec581ee","eventDate":"2020-11-15","event":"$10 Annual League Dues to Lloyd","details":"","active":true}
+{"_type":"event","_id":"e13ceebc-414d-4da2-a862-5b22316fe0cf","eventDate":"2020-12-11","event":"Free Agent Bids In","details":"","active":true}
+{"_type":"event","_id":"9d77b39e-6499-4ccf-b635-292d99336122","eventDate":"2020-12-12","event":"Free Agent Draft Results Posted","details":"","active":true}
+{"_type":"event","_id":"30009bea-ca34-46f5-a2ac-600a2ad03595","eventDate":"2021-01-01","event":"Second Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"e285662a-2aa9-4847-a8c1-84abeffd9d5c","eventDate":"2021-02-08","event":"Second Trading Period Ends at Midnight","details":"","active":true}
+{"_type":"event","_id":"46a3d846-b380-41c2-8a22-83a6125f6fba","eventDate":"2021-01-30","event":"Unowned Player Draft","details":"","active":true}
+{"_type":"event","_id":"27e0f5ba-7c29-4f08-bf68-9dee5ebfef8b","eventDate":"2021-01-28","event":"Unowned Draft Lists In by Midnight EST","details":"","active":true}
+{"_type":"event","_id":"5133fb20-664a-425c-bcb4-6ea0bab5b3a1","eventDate":"2021-02-13","event":"Waiver Cutdown by Midnight","details":"Last Chance to cut without penalty","active":true}
+{"_type":"event","_id":"2b9f2197-6965-4a24-9eb0-f13f291a9688","eventDate":"2021-02-27","event":"Waiver Draft","details":"","active":true}
+{"_type":"event","_id":"272d533c-7491-4362-96e3-adfb7ad7d8c7","eventDate":"2021-02-25","event":"Waiver Draft Lists in by Midnight","details":"","active":true}
+{"_type":"event","_id":"6630c3c2-b040-4280-8aee-4dc478cc882c","eventDate":"2021-02-27","event":"Third trading period begins","details":"","active":true}
+{"_type":"event","_id":"8e8056b2-7714-43d5-b1cf-e19ba3796c98","eventDate":"2021-03-06","event":"Third trading period ends","details":"","active":true}
+{"_type":"event","_id":"f235741f-4700-490a-8b4e-ebfbab6ad4c1","eventDate":"2021-03-07","event":"Final Rosters Set","details":"","active":true}
+{"_type":"event","_id":"d95329a5-3aa0-4755-874b-9e493586fde9","eventDate":"2021-04-01","event":"Block 1 start date","details":"","active":true}
+{"_type":"event","_id":"7f3f0bd2-4622-4e0a-a188-11b1e2dba804","eventDate":"2021-05-01","event":"Block 2 start date","details":"","active":true}
+{"_type":"event","_id":"fed1d108-3606-4895-afd0-ef4d41934308","eventDate":"2021-06-01","event":"Block 3 start date","details":"","active":true}
+{"_type":"event","_id":"1c6bcf6f-b576-42c9-a223-63dba5771d74","eventDate":"2021-07-01","event":"Block 4 start date","details":"","active":true}
+{"_type":"event","_id":"ef408ee0-fb00-42d2-9284-9d27322c22c7","eventDate":"2021-08-01","event":"Block 5 start date","details":"","active":true}
+{"_type":"event","_id":"bea25f4c-95ad-4327-92f1-c0a822d5fecd","eventDate":"2021-09-01","event":"Block 6 start date","details":"","active":true}
+{"_type":"event","_id":"a3264ab9-4a8c-4bea-bf5c-f1bf25fbb1a1","eventDate":"2021-04-28","event":"Block 1 due date","details":"","active":true}
+{"_type":"event","_id":"d0e39821-a8ce-4a2a-9e3c-d82b25d284bd","eventDate":"2021-05-28","event":"Block 2 due date","details":"","active":true}
+{"_type":"event","_id":"99f1b607-3adc-4db7-a068-10e47d875157","eventDate":"2021-06-28","event":"Block 3 due date","details":"","active":true}
+{"_type":"event","_id":"3227d261-4178-4811-9493-3c49de882b97","eventDate":"2021-07-28","event":"Block 4 due date","details":"","active":true}
+{"_type":"event","_id":"e9d4f659-3cc8-4949-93c0-bc081763e88d","eventDate":"2021-08-28","event":"Block 5 due date","details":"","active":true}
+{"_type":"event","_id":"2ccfa25b-6486-46f3-9c8c-f721594897bd","eventDate":"2021-09-28","event":"Block 6 due date","details":"","active":true}
+{"_type":"event","_id":"77e5e60d-ede8-4e91-82b5-c3bf6509389b","eventDate":"2021-03-27","event":"Contingency CMs due to Mark by midnight","details":"","active":true}
+{"_type":"event","_id":"5296741b-4bbb-4aa0-83eb-ecdb49cf16f0","eventDate":"2021-06-05","event":"Minor League Draft","details":"","active":true}
+{"_type":"event","_id":"b4facb80-ad90-447e-8a45-62dcd42dc551","eventDate":"2021-06-03","event":"Minor League Draft lists due at midnight","details":"","active":true}
+{"_type":"event","_id":"e95190b6-3756-479a-aeb8-757ca2daba50","eventDate":"2021-06-01","event":"In-season Trading Period Begins","details":"","active":true}
+{"_type":"event","_id":"2e52574d-5d5e-4076-9d5a-5c52e2c2af52","eventDate":"2021-06-26","event":"In-season Trading Period Ends","details":"","active":true}
