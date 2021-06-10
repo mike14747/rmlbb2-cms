@@ -1,212 +1,213 @@
-1,2015-01-01,Second Trading Period Begins
-2,2015-01-07,Unowned Draft Lists Deadline
-3,2015-01-10,Unowned Draft
-4,2015-01-17,Makeup Date for Unowned Draft
-5,2015-02-01,Second Trading Period Ends
-6,2015-02-07,Waiver Cutdown by Midnight
-7,2015-02-25,Waiver Draft Lists in by Midnight
-8,2015-02-28,Third Trading Period Begins
-9,2015-02-28,Waiver Draft
-10,2015-03-07,Third Trading Period Ends at Midnight
-11,2015-03-08,Final Rosters Set
-12,2015-03-25,Contingency CMs due by midnight
-13,2015-04-01,Opening Day--Play Ball!! Series 1 Starts
-14,2015-04-09,Minor League Draft Lists Due by midnite
-15,2015-04-11,Minor League Draft
-16,2015-04-15,Series 1 Stats to Mark
-17,2015-04-16,Series 2 Starts
-18,2015-04-30,Series 2 Stats to Mark
-19,2015-05-01,Series 3 Starts
-20,2015-05-15,Series 3 Stats to Mark
-21,2015-05-16,Series 4 Starts
-22,2015-05-31,Series 4 Stats to Mark
-23,2015-06-01,Series 5 Starts
-24,2015-06-15,Series 5 Stats to Mark
-25,2015-06-16,Series 6 Starts
-26,2015-06-30,Series 6 Stats to Mark
-27,2015-07-01,Series 7 Starts
-28,2015-07-15,Series 7 Stats to Mark
-29,2015-07-16,Series 8 Starts
-30,2015-07-31,Series 8 Stats to Mark
-31,2015-08-01,Series 9 Starts
-32,2015-08-15,Series 9 Stats to Mark
-33,2015-08-16,Series 10 Starts
-34,2015-08-31,Series 10 Stats to Mark
-35,2015-09-01,Series 11 Starts
-36,2015-09-15,Series 11 Stats to Mark
-37,2015-09-16,Series 12 Starts
-38,2015-09-30,Series 12 Stats to Mark
-39,2015-10-31,End of First Trading Period
-40,2015-09-01,First trading period starts
-41,2015-11-15,Payrolls Due by midnight
-42,2015-12-12,Free Agent Bids by midnight
-43,2015-12-19,Free Agent Darft Results Posted
-44,2016-01-01,Second Trading Period Starts--thru Feb. 1
-45,2016-02-01,Second Trading Period Ends at midnight
-46,2016-01-06,Unowned Draft Lists to Tom and Lloyd by midnight
-47,2016-01-09,Unowned Draft--TBA
-48,2016-02-06,Waiver Cutdown by Midnight--Last Chance to cut without penalty
-49,2016-02-24,Waiver Draft Lists in by Midnight
-50,2016-02-27,Waiver Draft
-51,2016-02-27,Third Trading Period Begins
-52,2016-03-05,Third Trading Period Ends at Midnight
-53,2016-03-06,Final Rosters Set
-54,2016-03-25,Contingency CMs due by midnight
-55,2016-04-01,Opening Day--Play Ball!! Block 1 (April) Starts
-56,2016-04-07,Minor League Draft Lists Due by Midnight
-57,2016-04-09,Minor League Draft
-58,2016-04-26,Block 1 (April) Stats to Mark
-59,2016-05-01,Block 2 (May) Starts
-60,2016-05-26,Block 2 (May) Stats to Mark
-61,2016-06-01,Block 3 (June) Starts
-62,2016-06-28,Block 3 (June) Stats to Mark
-63,2016-07-01,Block 4 (July) Starts
-64,2016-07-28,Block 4 (July) Stats to Mark
-65,2016-08-01,Block 5 (August) Starts
-66,2016-08-28,Block 5 (August) Stats to Mark
-67,2016-09-01,Block 6 (September) Starts
-68,2016-09-01,First Trading Period Begins
-69,2016-09-26,Block 6 (September) Stats to Mark
-70,2016-10-31,First Trading Period Ends
-71,2016-11-15,Payrolls Due by Midnight
-73,2016-12-10,Free Agent Bids by Midnight
-74,2016-12-17,Free Agent Draft Results Posted
-75,2017-01-01,Second Trading Period Begins
-76,2017-01-04,Unowned Draft Lists to Tom and Lloyd by Midnight
-77,2017-01-07,Unowned Draft
-78,2017-02-01,Second Trading Period Ends at Midnight
-79,2017-02-08,Waiver Cut-down by Midnight--Last Chance to cut without bonus penalty.
-80,2017-02-22,Waiver Draft Lists in by midnight Eastern
-81,2017-02-25,Waiver Draft
-82,2017-02-25,Third Trading Period Begins--One week
-83,2017-03-04,Third Trading Period Ends at midnight Eastern
-84,2017-03-05,Final Rosters Set
-85,2017-03-25,Contingency CMs Due By Midnight (Eastern)
-86,2017-04-01,Opening Day--Play Ball!-Block 1 Starts
-87,2017-04-19,Minor League Draft Lists Due by Midnight (Eastern)
-88,2017-04-22,Minor League Draft
-89,2017-05-27,Block 2 Stats Due to Mark
-90,2017-09-01,First Trading Period Begins
-91,2017-10-31,First Trading Period Ends Midnight Eastern
-92,2017-11-08,Payrolls Due by Midnight Eastern
-93,2017-06-27,Block 3 Stats to Mark
-94,2017-07-27,Block 4 Stats Due to Mark
-95,2017-08-27,Block 5 Stats Due to Mark
-96,2017-09-27,Block 6 Stats Due to Mark
-97,2017-12-02,Free Agent Bids by Midnight Eastern
-98,2017-12-09,Free Agent Draft Results Posted
-99,2018-01-01,Second Trading Period Starts
-100,2018-01-10,Unowned Draft Lists In by Midnight Eastern
-101,2018-01-13,Unowned Draft
-102,2018-02-01,Second Trading Period Ends at Midnight Eastern
-103,2018-02-10,Roster Cuts in by midnight to avoid bonus points penalty.
-104,2018-02-21,Waiver Draft Lists in by midnight Eastern
-105,2018-02-24,Waiver Draft
-106,2018-02-24,Third Trading Period Begins--One week
-107,2018-03-03,Third Trading Period Ends at midnight Eastern
-108,2018-03-17,Final Rosters Set--any cuts in by midnight-loss of bonus points.
-109,2018-04-01,Opening Day--Play Ball!-Block 1 Starts
-110,2018-04-18,Minor League Draft Lists Due by Midnight (Eastern): lists to Tom and Lloyd
-111,2018-04-21,Minor League Draft
-112,2018-04-27,Block 1 results due to Mark
-113,2018-05-27,Block 2 results due to Mark
-114,2018-06-27,Block 3 results due to Mark
-115,2018-07-27,Block 4 results due to Mark
-116,2018-08-27,Block 5 results due to Mark
-117,2018-09-27,Block 6 results due to Mark
-118,2018-09-01,First Trading Period Begins
-119,2018-10-31,First Trading Period Ends Midnight Eastern
-120,2018-11-10,Payrolls Due by Midnight Eastern
-121,2018-12-01,Free Agent Bids by Midnight Eastern
-122,2018-12-08,Free Agent Draft Results Posted
-123,2019-01-01,Second Trading Period Starts
-124,2019-01-16,Unowned Draft Lists In by Midnight Eastern
-125,2019-01-19,Unowned Draft
-126,2019-02-01,Second Trading Period Ends at Midnight Eastern
-127,2019-02-09,Roster Cuts in by midnight to avoid bonus points penalty.
-128,2019-02-20,Waiver Draft Lists in by midnight Eastern
-129,2019-02-23,Waiver Draft
-130,2019-02-23,Third Trading Period Begins--One week
-131,2019-03-16,Final Rosters Set--any cuts in by midnight-loss of bonus points.
-132,2019-04-01,Opening Day--Play Ball!-Block 1 Starts
-133,2019-04-27,Minor League Draft
-134,2019-04-24,Minor League Draft Lists Due by Midnight (Eastern): lists to Tom and Lloyd
-135,2019-03-02,Third Trading Period Ends at midnight Eastern
-136,2019-06-01,Mid-season Trading Period thru June 26
-137,2019-07-01,July Block Starts-Everyone must download new lzp with roster changes.
-138,2019-06-27,All Roster cuts/pick-ups to Tom and Mark by midnight eastern for July lzp
-139,2019-04-27,Block One Completed--all stats to Mark
-140,2019-05-01,May Block Starts
-141,2019-05-27,May Block ends--stats to Mark
-142,2019-06-01,June Block Starts
-143,2019-06-27,June Block Ends--All Stats to Mark
-144,2019-07-27,July Block Ends--All stats to Mark
-145,2019-08-01,August Block Starts
-146,2019-08-27,August Block Ends--All stats to Mark
-147,2019-09-01,First Trading Period Starts-thru Oct. 31
-148,2019-06-26,Mid-Season Trading Ends at Midnight (Eastern)
-149,2019-10-31,First Trading Period Ends
-150,2019-11-09,Payrolls Due
-151,2019-12-06,Free Agent Bids In
-152,2019-12-07,Free Agent Draft Results Posted
-153,2020-01-01,Second Trading Period Starts
-154,2020-02-01,Second Trading Period Ends
-155,2019-09-30,Block 6 results due to Mark
-156,2019-10-15,Wildcard series results due to Mark
-157,2019-11-09,$10 League Dues to Lloyd
-158,2019-10-31,Divisional playoff results due
-159,2020-01-18,Unowned Player Draft
-160,2020-02-08,Roster Cuts in by midnight to avoid bonus points penalty.
-161,2020-02-22,Waiver Draft
-162,2020-02-21,Waiver Draft lists due
-163,2020-02-22,Third trading period begins
-164,2020-02-29,Third trading period ends
-165,2020-03-07,Final Rosters Set
-166,2020-03-28,Contingency CMs due to Mark by midnight
-167,2020-04-18,Minor League Draft
-168,2020-04-16,Minor League Draft lists due to Mike and Lloyd
-169,2020-04-01,Block 1 start date
-170,2020-04-28,Block 1 due date
-171,2020-05-01,Block 2 start date
-172,2020-05-28,Block 2 due date
-173,2020-06-01,Block 3 start date
-174,2020-06-28,Block 3 due date
-175,2020-07-01,Block 4 start date
-176,2020-07-28,Block 4 due date
-177,2020-08-01,Block 5 start date
-178,2020-08-28,Block 5 due date
-179,2020-09-01,Block 6 start date
-180,2020-09-28,Block 6 due date
-181,2020-09-30,First Trading Period Begins
-182,2020-11-07,First Trading Period Ends
-183,2020-11-15,Payrolls Due by Midnight EST
-184,2020-11-15,$10 Annual League Dues to Lloyd
-185,2020-12-11,Free Agent Bids In
-186,2020-12-12,Free Agent Draft Results Posted
-187,2021-01-01,Second Trading Period Begins
-188,2021-02-08,Second Trading Period Ends at Midnight
-189,2021-01-30,Unowned Player Draft
-190,2021-01-28,Unowned Draft Lists In by Midnight EST
-191,2021-02-13,Waiver Cutdown by Midnight--Last Chance to cut without penalty
-192,2021-02-27,Waiver Draft
-193,2021-02-25,Waiver Draft Lists in by Midnight
-194,2021-02-27,Third trading period begins
-195,2021-03-06,Third trading period ends
-196,2021-03-07,Final Rosters Set
-197,2021-04-01,Block 1 start date
-198,2021-05-01,Block 2 start date
-199,2021-06-01,Block 3 start date
-200,2021-07-01,Block 4 start date
-201,2021-08-01,Block 5 start date
-202,2021-09-01,Block 6 start date
-203,2021-04-28,Block 1 due date
-204,2021-05-28,Block 2 due date
-205,2021-06-28,Block 3 due date
-206,2021-07-28,Block 4 due date
-207,2021-08-28,Block 5 due date
-208,2021-09-28,Block 6 due date
-209,2021-03-27,Contingency CMs due to Mark by midnight
-210,2021-06-05,Minor League Draft
-211,2021-06-03,Minor League Draft lists due at midnight
-212,2021-06-01,In-season Trading Period Begins
-213,2021-06-26,In-season Trading Period Ends
+id,eventDate,event,details,active
+1,2015-01-01,Second Trading Period Begins,,true
+2,2015-01-07,Unowned Draft Lists Deadline,,true
+3,2015-01-10,Unowned Draft,,true
+4,2015-01-17,Makeup Date for Unowned Draft,,true
+5,2015-02-01,Second Trading Period Ends,,true
+6,2015-02-07,Waiver Cutdown by Midnight,,true
+7,2015-02-25,Waiver Draft Lists in by Midnight,,true
+8,2015-02-28,Third Trading Period Begins,,true
+9,2015-02-28,Waiver Draft,,true
+10,2015-03-07,Third Trading Period Ends at Midnight,,true
+11,2015-03-08,Final Rosters Set,,true
+12,2015-03-25,Contingency CMs due by midnight,,true
+13,2015-04-01,Opening Day--Play Ball!!,Series 1 Starts,true
+14,2015-04-09,Minor League Draft Lists Due by midnite,,true
+15,2015-04-11,Minor League Draft,,true
+16,2015-04-15,Series 1 Stats to Mark,,true
+17,2015-04-16,Series 2 Starts,,true
+18,2015-04-30,Series 2 Stats to Mark,,true
+19,2015-05-01,Series 3 Starts,,true
+20,2015-05-15,Series 3 Stats to Mark,,true
+21,2015-05-16,Series 4 Starts,,true
+22,2015-05-31,Series 4 Stats to Mark,,true
+23,2015-06-01,Series 5 Starts,,true
+24,2015-06-15,Series 5 Stats to Mark,,true
+25,2015-06-16,Series 6 Starts,,true
+26,2015-06-30,Series 6 Stats to Mark,,true
+27,2015-07-01,Series 7 Starts,,true
+28,2015-07-15,Series 7 Stats to Mark,,true
+29,2015-07-16,Series 8 Starts,,true
+30,2015-07-31,Series 8 Stats to Mark,,true
+31,2015-08-01,Series 9 Starts,,true
+32,2015-08-15,Series 9 Stats to Mark,,true
+33,2015-08-16,Series 10 Starts,,true
+34,2015-08-31,Series 10 Stats to Mark,,true
+35,2015-09-01,Series 11 Starts,,true
+36,2015-09-15,Series 11 Stats to Mark,,true
+37,2015-09-16,Series 12 Starts,,true
+38,2015-09-30,Series 12 Stats to Mark,,true
+39,2015-10-31,End of First Trading Period,,true
+40,2015-09-01,First trading period starts,,true
+41,2015-11-15,Payrolls Due by midnight,,true
+42,2015-12-12,Free Agent Bids by midnight,,true
+43,2015-12-19,Free Agent Darft Results Posted,,true
+44,2016-01-01,Second Trading Period Starts,runs thru Feb. 1,true
+45,2016-02-01,Second Trading Period Ends at midnight,,true
+46,2016-01-06,Unowned Draft Lists to Tom and Lloyd by midnight,,true
+47,2016-01-09,Unowned Draft,TBA,true
+48,2016-02-06,Waiver Cutdown by Midnight,Last Chance to cut without penalty,true
+49,2016-02-24,Waiver Draft Lists in by Midnight,,true
+50,2016-02-27,Waiver Draft,,true
+51,2016-02-27,Third Trading Period Begins,,true
+52,2016-03-05,Third Trading Period Ends at Midnight,,true
+53,2016-03-06,Final Rosters Set,,true
+54,2016-03-25,Contingency CMs due by midnight,,true
+55,2016-04-01,Opening Day--Play Ball!!,Block 1 (April) Starts,true
+56,2016-04-07,Minor League Draft Lists Due by Midnight,,true
+57,2016-04-09,Minor League Draft,,true
+58,2016-04-26,Block 1 (April) Stats to Mark,,true
+59,2016-05-01,Block 2 (May) Starts,,true
+60,2016-05-26,Block 2 (May) Stats to Mark,,true
+61,2016-06-01,Block 3 (June) Starts,,true
+62,2016-06-28,Block 3 (June) Stats to Mark,,true
+63,2016-07-01,Block 4 (July) Starts,,true
+64,2016-07-28,Block 4 (July) Stats to Mark,,true
+65,2016-08-01,Block 5 (August) Starts,,true
+66,2016-08-28,Block 5 (August) Stats to Mark,,true
+67,2016-09-01,Block 6 (September) Starts,,true
+68,2016-09-01,First Trading Period Begins,,true
+69,2016-09-26,Block 6 (September) Stats to Mark,,true
+70,2016-10-31,First Trading Period Ends,,true
+71,2016-11-15,Payrolls Due by Midnight,,true
+73,2016-12-10,Free Agent Bids by Midnight,,true
+74,2016-12-17,Free Agent Draft Results Posted,,true
+75,2017-01-01,Second Trading Period Begins,,true
+76,2017-01-04,Unowned Draft Lists to Tom and Lloyd by Midnight,,true
+77,2017-01-07,Unowned Draft,,true
+78,2017-02-01,Second Trading Period Ends at Midnight,,true
+79,2017-02-08,Waiver Cut-down by Midnight,Last Chance to cut without bonus penalty.,true
+80,2017-02-22,Waiver Draft Lists in by midnight Eastern,,true
+81,2017-02-25,Waiver Draft,,true
+82,2017-02-25,Third Trading Period Begins--One week,,true
+83,2017-03-04,Third Trading Period Ends at midnight Eastern,,true
+84,2017-03-05,Final Rosters Set,,true
+85,2017-03-25,Contingency CMs Due By Midnight (Eastern),,true
+86,2017-04-01,Opening Day--Play Ball!,Block 1 Starts,true
+87,2017-04-19,Minor League Draft Lists Due by Midnight (Eastern),,true
+88,2017-04-22,Minor League Draft,,true
+89,2017-05-27,Block 2 Stats Due to Mark,,true
+90,2017-09-01,First Trading Period Begins,,true
+91,2017-10-31,First Trading Period Ends Midnight Eastern,,true
+92,2017-11-08,Payrolls Due by Midnight Eastern,,true
+93,2017-06-27,Block 3 Stats to Mark,,true
+94,2017-07-27,Block 4 Stats Due to Mark,,true
+95,2017-08-27,Block 5 Stats Due to Mark,,true
+96,2017-09-27,Block 6 Stats Due to Mark,,true
+97,2017-12-02,Free Agent Bids by Midnight Eastern,,true
+98,2017-12-09,Free Agent Draft Results Posted,,true
+99,2018-01-01,Second Trading Period Starts,,true
+100,2018-01-10,Unowned Draft Lists In by Midnight Eastern,,true
+101,2018-01-13,Unowned Draft,,true
+102,2018-02-01,Second Trading Period Ends at Midnight Eastern,,true
+103,2018-02-10,Roster Cuts in by midnight to avoid bonus points penalty.,,true
+104,2018-02-21,Waiver Draft Lists in by midnight Eastern,,true
+105,2018-02-24,Waiver Draft,,true
+106,2018-02-24,Third Trading Period Begins--One week,,true
+107,2018-03-03,Third Trading Period Ends at midnight Eastern,,true
+108,2018-03-17,Final Rosters Set--any cuts in by midnight-loss of bonus points.,,true
+109,2018-04-01,Opening Day--Play Ball!-Block 1 Starts,,true
+110,2018-04-18,Minor League Draft Lists Due by Midnight (Eastern),Lists to Tom and Lloyd,true
+111,2018-04-21,Minor League Draft,,true
+112,2018-04-27,Block 1 results due to Mark,,true
+113,2018-05-27,Block 2 results due to Mark,,true
+114,2018-06-27,Block 3 results due to Mark,,true
+115,2018-07-27,Block 4 results due to Mark,,true
+116,2018-08-27,Block 5 results due to Mark,,true
+117,2018-09-27,Block 6 results due to Mark,,true
+118,2018-09-01,First Trading Period Begins,,true
+119,2018-10-31,First Trading Period Ends Midnight Eastern,,true
+120,2018-11-10,Payrolls Due by Midnight Eastern,,true
+121,2018-12-01,Free Agent Bids by Midnight Eastern,,true
+122,2018-12-08,Free Agent Draft Results Posted,,true
+123,2019-01-01,Second Trading Period Starts,,true
+124,2019-01-16,Unowned Draft Lists In by Midnight Eastern,,true
+125,2019-01-19,Unowned Draft,,true
+126,2019-02-01,Second Trading Period Ends at Midnight Eastern,,true
+127,2019-02-09,Roster Cuts in by midnight to avoid bonus points penalty.,,true
+128,2019-02-20,Waiver Draft Lists in by midnight Eastern,,true
+129,2019-02-23,Waiver Draft,,true
+130,2019-02-23,Third Trading Period Begins--One week,,true
+131,2019-03-16,Final Rosters Set--any cuts in by midnight-loss of bonus points.,,true
+132,2019-04-01,Opening Day--Play Ball!-Block 1 Starts,,true
+133,2019-04-27,Minor League Draft,,true
+134,2019-04-24,Minor League Draft Lists Due by Midnight (Eastern): lists to Tom and Lloyd,,true
+135,2019-03-02,Third Trading Period Ends at midnight Eastern,,true
+136,2019-06-01,Mid-season Trading Period thru June 26,,true
+137,2019-07-01,July Block Starts,Everyone must download new lzp with roster changes.,true
+138,2019-06-27,All Roster cuts/pick-ups to Tom and Mark by midnight eastern for July lzp,,true
+139,2019-04-27,Block One Completed--all stats to Mark,,true
+140,2019-05-01,May Block Starts,,true
+141,2019-05-27,May Block ends--stats to Mark,,true
+142,2019-06-01,June Block Starts,,true
+143,2019-06-27,June Block Ends--All Stats to Mark,,true
+144,2019-07-27,July Block Ends--All stats to Mark,,true
+145,2019-08-01,August Block Starts,,true
+146,2019-08-27,August Block Ends--All stats to Mark,,true
+147,2019-09-01,First Trading Period Starts-thru Oct. 31,,true
+148,2019-06-26,Mid-Season Trading Ends at Midnight (Eastern),,true
+149,2019-10-31,First Trading Period Ends,,true
+150,2019-11-09,Payrolls Due,,true
+151,2019-12-06,Free Agent Bids In,,true
+152,2019-12-07,Free Agent Draft Results Posted,,true
+153,2020-01-01,Second Trading Period Starts,,true
+154,2020-02-01,Second Trading Period Ends,,true
+155,2019-09-30,Block 6 results due to Mark,,true
+156,2019-10-15,Wildcard series results due to Mark,,true
+157,2019-11-09,$10 League Dues to Lloyd,,true
+158,2019-10-31,Divisional playoff results due,,true
+159,2020-01-18,Unowned Player Draft,,true
+160,2020-02-08,Roster Cuts in by midnight,Last chance to avoid bonus points penalty.,true
+161,2020-02-22,Waiver Draft,,true
+162,2020-02-21,Waiver Draft lists due,,true
+163,2020-02-22,Third trading period begins,,true
+164,2020-02-29,Third trading period ends,,true
+165,2020-03-07,Final Rosters Set,,true
+166,2020-03-28,Contingency CMs due to Mark by midnight,,true
+167,2020-04-18,Minor League Draft,,true
+168,2020-04-16,Minor League Draft lists due to Mike and Lloyd,,true
+169,2020-04-01,Block 1 start date,,true
+170,2020-04-28,Block 1 due date,,true
+171,2020-05-01,Block 2 start date,,true
+172,2020-05-28,Block 2 due date,,true
+173,2020-06-01,Block 3 start date,,true
+174,2020-06-28,Block 3 due date,,true
+175,2020-07-01,Block 4 start date,,true
+176,2020-07-28,Block 4 due date,,true
+177,2020-08-01,Block 5 start date,,true
+178,2020-08-28,Block 5 due date,,true
+179,2020-09-01,Block 6 start date,,true
+180,2020-09-28,Block 6 due date,,true
+181,2020-09-30,First Trading Period Begins,,true
+182,2020-11-07,First Trading Period Ends,,true
+183,2020-11-15,Payrolls Due by Midnight EST,,true
+184,2020-11-15,$10 Annual League Dues to Lloyd,,true
+185,2020-12-11,Free Agent Bids In,,true
+186,2020-12-12,Free Agent Draft Results Posted,,true
+187,2021-01-01,Second Trading Period Begins,,true
+188,2021-02-08,Second Trading Period Ends at Midnight,,true
+189,2021-01-30,Unowned Player Draft,,true
+190,2021-01-28,Unowned Draft Lists In by Midnight EST,,true
+191,2021-02-13,Waiver Cutdown by Midnight,Last Chance to cut without penalty,true
+192,2021-02-27,Waiver Draft,,true
+193,2021-02-25,Waiver Draft Lists in by Midnight,,true
+194,2021-02-27,Third trading period begins,,true
+195,2021-03-06,Third trading period ends,,true
+196,2021-03-07,Final Rosters Set,,true
+197,2021-04-01,Block 1 start date,,true
+198,2021-05-01,Block 2 start date,,true
+199,2021-06-01,Block 3 start date,,true
+200,2021-07-01,Block 4 start date,,true
+201,2021-08-01,Block 5 start date,,true
+202,2021-09-01,Block 6 start date,,true
+203,2021-04-28,Block 1 due date,,true
+204,2021-05-28,Block 2 due date,,true
+205,2021-06-28,Block 3 due date,,true
+206,2021-07-28,Block 4 due date,,true
+207,2021-08-28,Block 5 due date,,true
+208,2021-09-28,Block 6 due date,,true
+209,2021-03-27,Contingency CMs due to Mark by midnight,,true
+210,2021-06-05,Minor League Draft,,true
+211,2021-06-03,Minor League Draft lists due at midnight,,true
+212,2021-06-01,In-season Trading Period Begins,,true
+213,2021-06-26,In-season Trading Period Ends,,true
