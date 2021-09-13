@@ -17,12 +17,5 @@ export default {
             description: 'The url for the link (including http/https).',
             validation: (Rule) => Rule.required(),
         },
-        {
-            name: 'active',
-            title: 'Active',
-            descritpion: 'Should this link be displayed?',
-            type: 'boolean',
-            initialValue: true,
-        },
     ],
 };

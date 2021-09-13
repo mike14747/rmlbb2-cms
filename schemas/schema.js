@@ -9,7 +9,6 @@ import champion from './champion';
 import miscPortableText from './miscPortableText';
 import settings from './settings';
 import links from './links';
-import topInfo from './topInfo';
 
 export default createSchema({
     name: 'default',
@@ -22,6 +21,5 @@ export default createSchema({
         miscPortableText,
         settings,
         links,
-        topInfo,
     ]),
 });
