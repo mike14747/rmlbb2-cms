@@ -1,26 +1,25 @@
 export default {
-    name: 'links',
-    title: 'Links',
+    name: 'topInfo',
+    title: 'Top Info',
     type: 'document',
     fields: [
         {
             name: 'name',
             title: 'Name',
             type: 'string',
-            description: 'The text that is visible.',
             validation: (Rule) => Rule.required(),
         },
         {
-            title: 'url',
-            name: 'URL',
-            type: 'url',
-            description: 'The url for the link (including http/https).',
+            name: 'text',
+            title: 'Text',
+            type: 'string',
+            description: 'This is the text that will appear in the TopInfo component.',
             validation: (Rule) => Rule.required(),
         },
         {
             name: 'active',
             title: 'Active',
-            descritpion: 'Should this link be displayed?',
+            descritpion: 'Should the TopInfo component be displayed?',
             type: 'boolean',
             initialValue: true,
         },

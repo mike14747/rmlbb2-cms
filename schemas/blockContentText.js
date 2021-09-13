@@ -8,6 +8,8 @@ export default {
             type: 'block',
             styles: [
                 { title: 'Normal', value: 'normal' },
+                { title: 'H3', value: 'h3' },
+                { title: 'H4', value: 'h4' },
             ],
             lists: [
                 { title: 'Bullet', value: 'bullet' },
