@@ -11,8 +11,8 @@ export default {
             validation: (Rule) => Rule.required(),
         },
         {
-            title: 'url',
-            name: 'URL',
+            name: 'url',
+            title: 'URL',
             type: 'url',
             description: 'The url for the link (including http/https).',
             validation: (Rule) => Rule.required(),
