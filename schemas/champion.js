@@ -6,15 +6,8 @@ export default {
         {
             name: 'year',
             title: 'Year',
-            type: 'date',
-            options: {
-                dateFormat: 'YYYY',
-            },
-            validation: (Rule) => Rule.required().custom(date => {
-                return date < '1978'
-                ? 'Year must be at least 1978 or later.'
-                : true;
-            }),
+            type: 'number',
+            validation: (Rule) => Rule.required().integer().min(1978).max(2050),
         },
         {
             name: 'championTeam',
@@ -22,7 +15,7 @@ export default {
             type: 'string',
         },
         {
-            name: 'winnerManager',
+            name: 'championManager',
             title: 'Champion Manager',
             type: 'string',
         },
@@ -35,6 +28,20 @@ export default {
             name: 'runnerUpManager',
             title: 'Runner Up Manager',
             type: 'string',
+        },
+    ],
+    preview: {
+        select: {
+            title: 'year',
+        }
+    },
+    orderings: [
+        {
+            title: 'Year, ASC',
+            name: 'year',
+            by: [
+                { field: 'year', direction: 'asc' }
+            ]
         },
     ],
 };
