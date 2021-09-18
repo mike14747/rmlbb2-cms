@@ -4,22 +4,17 @@ export default {
     type: 'document',
     fields: [
         {
+            name: 'teamId',
+            title: 'Team ID',
+            type: 'number',
+            validation: (Rule) => Rule.required().integer().min(1).max(50),
+        },
+        {
             name: 'team',
             title: 'Team Name',
             type: 'string',
             validation: Rule => Rule.required(),
         },
-        // {
-        //     name: '',
-        //     title: '',
-        //     type: 'string',
-        //     validation: Rule => Rule.required(),
-        // },
-        // {
-        //     name: '',
-        //     title: '',
-        //     type: 'string',
-        // },
         {
             name: 'conference',
             title: 'Conference',
@@ -41,8 +36,8 @@ export default {
             options: {
                 list: [
                     { title: 'East', value: 'east' },
-                    { title: 'West', value: 'west' },
                     { title: 'Central', value: 'central' },
+                    { title: 'West', value: 'west' },
                 ],
             },
             validation: Rule => Rule.required(),
