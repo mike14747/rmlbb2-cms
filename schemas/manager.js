@@ -16,14 +16,20 @@ export default {
             validation: Rule => Rule.required(),
         },
         {
+            name: 'abbreviation',
+            title: 'Abbreviation',
+            type: 'string',
+            validation: Rule => Rule.required().length(3),
+        },
+        {
             name: 'conference',
             title: 'Conference',
             type: 'array',
             of: [{ type: 'string' }],
             options: {
                 list: [
-                    { title: 'American', value: 'american' },
-                    { title: 'National', value: 'national' },
+                    { title: 'American', value: 'American' },
+                    { title: 'National', value: 'National' },
                 ],
             },
             validation: Rule => Rule.required(),
@@ -35,9 +41,9 @@ export default {
             of: [{ type: 'string' }],
             options: {
                 list: [
-                    { title: 'East', value: 'east' },
-                    { title: 'Central', value: 'central' },
-                    { title: 'West', value: 'west' },
+                    { title: 'East', value: 'East' },
+                    { title: 'Central', value: 'Central' },
+                    { title: 'West', value: 'West' },
                 ],
             },
             validation: Rule => Rule.required(),
@@ -168,6 +174,21 @@ export default {
             name: 'email2b',
             title: 'Secondary Email (Manager 2)',
             type: 'string',
+        },
+    ],
+    preview: {
+        select: {
+            title: 'team',
+            subtitle: 'manager1',
+        }
+    },
+    orderings: [
+        {
+            title: 'Team',
+            name: 'team',
+            by: [
+                { field: 'team', direction: 'asc' },
+            ],
         },
     ],
 };
