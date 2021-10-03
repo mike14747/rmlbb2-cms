@@ -37,7 +37,7 @@ export default {
             title: 'Links',
             description: 'Links that appear in the footer.',
             type: 'array',
-            of: [{ type: 'reference', to: { type: 'links' } }],
+            of: [{ type: 'reference', to: { type: 'link' } }],
             validation: Rule => Rule.unique(),
         },
     ],

@@ -1,6 +1,6 @@
 export default {
     name: 'event',
-    title: 'Upcoming Event',
+    title: 'Event',
     type: 'document',
     fields: [
         {

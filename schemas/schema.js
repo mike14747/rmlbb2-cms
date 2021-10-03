@@ -8,7 +8,8 @@ import manager from './manager';
 import champion from './champion';
 import miscPortableText from './miscPortableText';
 import settings from './settings';
-import links from './links';
+import link from './link';
+import download from './download';
 
 export default createSchema({
     name: 'default',
@@ -20,6 +21,7 @@ export default createSchema({
         champion,
         miscPortableText,
         settings,
-        links,
+        link,
+        download,
     ]),
 });

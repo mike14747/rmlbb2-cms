@@ -1,6 +1,6 @@
 export default {
-    name: 'links',
-    title: 'Links',
+    name: 'link',
+    title: 'Link',
     type: 'document',
     fields: [
         {
