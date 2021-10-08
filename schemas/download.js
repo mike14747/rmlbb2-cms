@@ -48,7 +48,15 @@ export default {
     preview: {
         select: {
             title: 'download',
-            subtitle: 'description',
+            description: 'description',
+            date: '_updatedAt',
+        },
+        prepare(selection) {
+            const { title, description, date } = selection;
+            return {
+                title: title,
+                subtitle: date.slice(0, 10) + ' (' + (description || 'n/a') + ')',
+            };
         },
     },
     orderings: [
