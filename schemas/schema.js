@@ -10,7 +10,6 @@ import miscPortableText from './miscPortableText';
 import settings from './settings';
 import link from './link';
 import download from './download';
-import file from './file';
 
 export default createSchema({
     name: 'default',
@@ -24,6 +23,5 @@ export default createSchema({
         settings,
         link,
         download,
-        file,
     ]),
 });

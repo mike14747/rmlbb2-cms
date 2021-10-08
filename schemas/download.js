@@ -1,22 +1,15 @@
+import sanityClient from 'part:@sanity/base/client';
+
+const client = sanityClient.withConfig({ apiVersion: '2021-10-08' });
+
 export default {
     name: 'download',
     title: 'Download',
     type: 'document',
-    validation: (Rule) =>
-        Rule.custom((doc) => {
-            // console.log('doc.filename:', doc.filename);
-            console.log('doc.file:', doc.file);
-
-            // const matched = doc.filename === doc.file;
-            // return matched
-            //     ? 'Uploaded file does not match the expected filename.'
-            //     : true
-            return true;
-        }),
     fields: [
         {
-            name: 'name',
-            title: 'Name',
+            name: 'download',
+            title: 'Download',
             type: 'string',
             validation: (Rule) => Rule.required(),
         },
@@ -31,17 +24,18 @@ export default {
             description: 'This will be the filename which the uploaded file must have.',
             type: 'string',
             validation: (Rule) => Rule.required(),
-            // validation: Rule => Rule.custom((filename, context) => {
-            //     console.log('filename:', filename);
-            //     console.log('context:', context);
-            //     return true;
-            // }),
         },
         {
             name: 'file',
             title: 'File',
             type: 'file',
-            validation: (Rule) => Rule.required(),
+            validation: Rule => Rule.custom(async (doc, context) => {
+                const { _ref } = doc.asset;
+                const { filename } = context.document;
+                const originalFilename = await client.fetch(`*[_id == $ref][0].originalFilename`, { ref: _ref });
+
+                return filename === originalFilename ? true : `Uploaded file ${originalFilename} does not match required filename ${filename}`;
+            }),
         },
         {
             name: 'active',
@@ -53,16 +47,16 @@ export default {
     ],
     preview: {
         select: {
-            title: 'name',
-            subTitle: 'description',
-        }
+            title: 'download',
+            subtitle: 'description',
+        },
     },
     orderings: [
         {
+            name: 'download',
             title: 'Download',
-            name: 'name',
             by: [
-                { field: 'name', direction: 'asc' }
+                { field: 'download', direction: 'asc' }
             ]
         },
     ],
