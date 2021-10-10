@@ -1,3 +1,13 @@
+import React from 'react';
+
+const smallIcon = () => (
+    <span style={{ fontSize: '80%' }}>small</span>
+);
+const smallRender = props => (
+    <span style={{ fontSize: '80%' }}>{props.children}</span>
+);
+
+
 export default {
     title: 'Block Content',
     name: 'blockContentText',
@@ -10,6 +20,8 @@ export default {
                 { title: 'Normal', value: 'normal' },
                 { title: 'H3', value: 'h3' },
                 { title: 'H4', value: 'h4' },
+                { title: 'H5', value: 'h5' },
+                { title: 'H6', value: 'h6' },
             ],
             lists: [
                 { title: 'Bullet', value: 'bullet' },
@@ -19,6 +31,14 @@ export default {
                 decorators: [
                     { title: 'Strong', value: 'strong' },
                     { title: 'Emphasis', value: 'em' },
+                    {
+                        title: 'Small',
+                        value: 'small',
+                        blockEditor: {
+                            icon: smallIcon,
+                            render: smallRender,
+                        }
+                    }
                 ],
                 annotations: [
                     {
