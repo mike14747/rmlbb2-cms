@@ -5,7 +5,7 @@ const client = sanityClient.withConfig({ apiVersion: '2021-10-08' });
 export default {
     name: 'lzpFile',
     title: 'LZP File',
-    type: 'document',
+    type: 'object',
     fields: [
         {
             name: 'name',
@@ -58,13 +58,4 @@ export default {
             media: 'icon.icon',
         },
     },
-    orderings: [
-        {
-            name: 'name',
-            title: 'Name',
-            by: [
-                { field: 'name', direction: 'asc' }
-            ]
-        },
-    ],
 }

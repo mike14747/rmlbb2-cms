@@ -33,14 +33,38 @@ export default {
     preview: {
         select: {
             title: 'year',
-        }
+            champion: 'championTeam',
+            runnerUp: 'runnerUpTeam',
+        },
+        prepare(selection) {
+            const { title, champion, runnerUp } = selection;
+            return {
+                title: title,
+                subtitle: champion + ' / ' + runnerUp,
+            };
+        },
     },
     orderings: [
+        {
+            title: 'Year, DESC',
+            name: 'year',
+            by: [
+                { field: 'year', direction: 'desc' }
+            ]
+        },
         {
             title: 'Year, ASC',
             name: 'year',
             by: [
                 { field: 'year', direction: 'asc' }
+            ]
+        },
+        {
+            title: 'Champion',
+            name: 'championTeam',
+            by: [
+                { field: 'championTeam', direction: 'asc' },
+                { field: 'year', direction: 'asc' },
             ]
         },
     ],

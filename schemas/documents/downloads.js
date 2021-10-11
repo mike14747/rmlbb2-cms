@@ -2,6 +2,12 @@ export default {
     name: 'downloads',
     title: 'Downloads',
     type: 'document',
+    __experimental_actions: [
+        // 'create',
+        // 'delete',
+        'update',
+        'publish',
+    ],
     fields: [
         {
             name: 'name',
@@ -14,15 +20,15 @@ export default {
             title: 'Downloads',
             description: 'Files that appear on the downloads page.',
             type: 'array',
-            of: [{ type: 'reference', to: { type: 'downloadFile' } }],
-            validation: Rule => Rule.unique(),
+            of: [{ type: 'downloadFile' }],
+            // validation: Rule => Rule.unique(),
         },
         {
             name: 'lzps',
             title: 'LZPs',
             description: 'LZP files that appear on the downloads page.',
             type: 'array',
-            of: [{ type: 'reference', to: { type: 'lzpFile' } }],
+            of: [{ type: 'lzpFile' }],
             validation: Rule => Rule.unique(),
         },
     ],

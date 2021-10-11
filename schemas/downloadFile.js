@@ -5,7 +5,7 @@ const client = sanityClient.withConfig({ apiVersion: '2021-10-08' });
 export default {
     name: 'downloadFile',
     title: 'Download File',
-    type: 'document',
+    type: 'object',
     fields: [
         {
             name: 'name',
@@ -37,8 +37,9 @@ export default {
             title: 'File',
             type: 'file',
             validation: Rule => Rule.custom(async (doc, context) => {
+                console.log('context:', context);
                 const { _ref } = doc.asset;
-                const { filename } = context.document;
+                const { filename } = context.parent;
                 const originalFilename = await client.fetch(`*[_id == $ref][0].originalFilename`, { ref: _ref });
 
                 return filename === originalFilename ? true : `Uploaded file ${originalFilename} does not match required filename ${filename}`;
@@ -56,25 +57,15 @@ export default {
         select: {
             title: 'name',
             description: 'description',
-            date: '_updatedAt',
             icon: 'icon.icon',
         },
         prepare(selection) {
-            const { title, description, date, icon } = selection;
+            const { title, description, icon } = selection;
             return {
                 title: title,
-                subtitle: date.slice(0, 10) + ' (' + (description || 'n/a') + ')',
+                subtitle: description,
                 media: icon,
             };
         },
     },
-    orderings: [
-        {
-            name: 'name',
-            title: 'Name',
-            by: [
-                { field: 'name', direction: 'asc' }
-            ]
-        },
-    ],
 }

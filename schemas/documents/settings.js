@@ -2,6 +2,12 @@ export default {
     name: 'settings',
     title: 'Settings',
     type: 'document',
+    __experimental_actions: [
+        // 'create',
+        // 'delete',
+        'update',
+        'publish',
+    ],
     fields: [
         {
             name: 'name',
@@ -37,7 +43,7 @@ export default {
             title: 'Links',
             description: 'Links that appear in the footer.',
             type: 'array',
-            of: [{ type: 'reference', to: { type: 'link' } }],
+            of: [{ type: 'link' }],
             validation: Rule => Rule.unique(),
         },
     ],
