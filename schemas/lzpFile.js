@@ -3,13 +3,13 @@ import sanityClient from 'part:@sanity/base/client';
 const client = sanityClient.withConfig({ apiVersion: '2021-10-08' });
 
 export default {
-    name: 'download',
-    title: 'Download',
+    name: 'lzpFile',
+    title: 'LZP File',
     type: 'document',
     fields: [
         {
-            name: 'download',
-            title: 'Download',
+            name: 'name',
+            title: 'Name',
             type: 'string',
             validation: (Rule) => Rule.required(),
         },
@@ -21,8 +21,15 @@ export default {
         {
             name: 'filename',
             title: 'Filename',
-            description: 'This will be the filename which the uploaded file must have.',
+            description: 'This will be the filename which the uploaded LZP file must have.',
             type: 'string',
+            validation: (Rule) => Rule.required(),
+        },
+        {
+            name: 'icon',
+            title: 'Icon',
+            type: 'reference',
+            to: [{ type: 'fileTypeIcon' }],
             validation: (Rule) => Rule.required(),
         },
         {
@@ -40,31 +47,23 @@ export default {
         {
             name: 'active',
             title: 'Active',
-            description: 'Is this download active?',
+            description: 'Is this LZP file active?',
             type: 'boolean',
             initialValue: true,
         },
     ],
     preview: {
         select: {
-            title: 'download',
-            description: 'description',
-            date: '_updatedAt',
-        },
-        prepare(selection) {
-            const { title, description, date } = selection;
-            return {
-                title: title,
-                subtitle: date.slice(0, 10) + ' (' + (description || 'n/a') + ')',
-            };
+            title: 'name',
+            media: 'icon.icon',
         },
     },
     orderings: [
         {
-            name: 'download',
-            title: 'Download',
+            name: 'name',
+            title: 'Name',
             by: [
-                { field: 'download', direction: 'asc' }
+                { field: 'name', direction: 'asc' }
             ]
         },
     ],

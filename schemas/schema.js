@@ -9,7 +9,10 @@ import champion from './champion';
 import miscPortableText from './miscPortableText';
 import settings from './settings';
 import link from './link';
-import download from './download';
+import downloads from './downloads';
+import downloadFile from './downloadFile';
+import lzpFile from './lzpFile';
+import fileTypeIcon from './fileTypeIcon';
 
 export default createSchema({
     name: 'default',
@@ -22,6 +25,9 @@ export default createSchema({
         miscPortableText,
         settings,
         link,
-        download,
+        downloads,
+        downloadFile,
+        lzpFile,
+        fileTypeIcon,
     ]),
 });
