@@ -36,8 +36,8 @@ export default {
             name: 'file',
             title: 'File',
             type: 'file',
+            validation: (Rule) => Rule.required(),
             validation: Rule => Rule.custom(async (doc, context) => {
-                console.log('context:', context);
                 const { _ref } = doc.asset;
                 const { filename } = context.parent;
                 const originalFilename = await client.fetch(`*[_id == $ref][0].originalFilename`, { ref: _ref });

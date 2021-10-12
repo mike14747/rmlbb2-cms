@@ -36,9 +36,10 @@ export default {
             name: 'file',
             title: 'File',
             type: 'file',
+            validation: (Rule) => Rule.required(),
             validation: Rule => Rule.custom(async (doc, context) => {
                 const { _ref } = doc.asset;
-                const { filename } = context.document;
+                const { filename } = context.parent;
                 const originalFilename = await client.fetch(`*[_id == $ref][0].originalFilename`, { ref: _ref });
 
                 return filename === originalFilename ? true : `Uploaded file ${originalFilename} does not match required filename ${filename}`;
@@ -55,6 +56,7 @@ export default {
     preview: {
         select: {
             title: 'name',
+            subtitle: 'description',
             media: 'icon.icon',
         },
     },
