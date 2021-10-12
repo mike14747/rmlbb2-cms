@@ -16,8 +16,8 @@ export default {
             validation: (Rule) => Rule.required(),
         },
         {
-            name: 'downloads',
-            title: 'Downloads',
+            name: 'files',
+            title: 'Files',
             description: 'Files that appear on the downloads page.',
             type: 'array',
             of: [{ type: 'downloadFile' }],
