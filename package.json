@@ -1,31 +1,31 @@
 {
-  "name": "rmlbb2cms",
-  "private": true,
-  "version": "1.0.0",
-  "description": "",
-  "main": "package.json",
-  "author": "mike14747 <mike4747@oh.rr.com>",
-  "license": "UNLICENSED",
-  "scripts": {
-    "start": "sanity start",
-    "build": "sanity build"
-  },
-  "keywords": [
-    "sanity"
-  ],
-  "dependencies": {
-    "@sanity/base": "^2.10.2",
-    "@sanity/components": "^2.2.6",
-    "@sanity/core": "^2.10.2",
-    "@sanity/default-layout": "^2.10.2",
-    "@sanity/default-login": "^2.8.0",
-    "@sanity/desk-tool": "^2.10.2",
-    "@sanity/vision": "^2.10.0",
-    "csv-parse": "^4.16.0",
-    "prop-types": "^15.7",
-    "react": "^17.0",
-    "react-dom": "^17.0",
-    "react-icons": "^4.3.1",
-    "sanity-plugin-table": "^2.3.0"
-  }
+    "name": "rmlbb2cms",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "main": "package.json",
+    "author": "mike14747 <mike4747@oh.rr.com>",
+    "license": "UNLICENSED",
+    "scripts": {
+        "start": "sanity start",
+        "build": "sanity build"
+    },
+    "keywords": [
+        "sanity"
+    ],
+    "dependencies": {
+        "@sanity/base": "^2.10.2",
+        "@sanity/components": "^2.2.6",
+        "@sanity/core": "^2.10.2",
+        "@sanity/default-layout": "^2.10.2",
+        "@sanity/default-login": "^2.8.0",
+        "@sanity/desk-tool": "^2.10.2",
+        "@sanity/vision": "^2.10.0",
+        "csv-parse": "^4.16.0",
+        "prop-types": "^15.7",
+        "react": "^17.0",
+        "react-dom": "^17.0",
+        "react-icons": "^4.3.1",
+        "sanity-plugin-table": "^2.3.0"
+    }
 }
